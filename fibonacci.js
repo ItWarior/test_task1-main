@@ -3,7 +3,7 @@
 * @returns {number} value of max fibonaccis number
 */
 module.exports = (input) => {
-    console.log(num)
+
     if (typeof(input) === 'number' && input >= 0 && Number.isInteger(input)){
         let fibonacciArray = [0,1];
 
