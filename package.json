@@ -1,0 +1,28 @@
+{
+  "name": "simple_task",
+  "version": "1.0.0",
+  "description": "test task for the interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpolischuk/test_task1.git"
+  },
+  "keywords": [
+    "test",
+    "interview",
+    "RIA.com"
+  ],
+  "author": "kpolischuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpolischuk/test_task1/issues"
+  },
+  "homepage": "https://github.com/kpolischuk/test_task1#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
